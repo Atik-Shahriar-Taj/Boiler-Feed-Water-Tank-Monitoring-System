@@ -8,3 +8,11 @@ Features:
 2. Alerts for unsafe conditions such as low water level or high temperature.
 3. Data logging to a CSV file.
 4. Real-time visualization using graphs.
+
+Instructions:
+1. Install required libraries:
+   pip install matplotlib
+2. Save the Python code to a file (e.g., boiler_tank_monitoring.py).
+3. Run the script in a Python environment.
+4. The monitoring system starts, and real-time graphs display the parameters.
+5. Data is logged to a file named boiler_tank_data.csv.
